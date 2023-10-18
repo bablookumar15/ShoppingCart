@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ShoppingBasketCalculatorTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2023-10-18T16:19:06" hostname="LAPTOP-AEV2CGDF" time="0.059">
+  <properties/>
+  <testcase name="canCalculateThePriceOfItemsNotOnOffer_0" classname="ShoppingBasketCalculatorTest" time="0.047"/>
+  <testcase name="canCalculateThePriceOfItemsNotOnOffer_1" classname="ShoppingBasketCalculatorTest" time="0.0"/>
+  <testcase name="canCalculateThePriceOfItemsNotOnOffer_2" classname="ShoppingBasketCalculatorTest" time="0.001"/>
+  <testcase name="canCalculateThePriceOfAMixedBasketOfItems_0" classname="ShoppingBasketCalculatorTest" time="0.001"/>
+  <testcase name="canCalculateThePriceOfAMixedBasketOfItems_1" classname="ShoppingBasketCalculatorTest" time="0.001"/>
+  <testcase name="canCalculateThePriceOfAMixedBasketOfItems_2" classname="ShoppingBasketCalculatorTest" time="0.0"/>
+  <testcase name="canCalculateThePriceOfAMixedBasketOfItems_3" classname="ShoppingBasketCalculatorTest" time="0.0"/>
+  <testcase name="canCalculateThePriceOfAMixedBasketOfItems_4" classname="ShoppingBasketCalculatorTest" time="0.0"/>
+  <testcase name="canCalculateThePriceOfAMixedBasketOfItems_5" classname="ShoppingBasketCalculatorTest" time="0.001"/>
+  <testcase name="canCalculateThePriceOfItemsOnOfferBuyThreeForThePriceOfTwo_0" classname="ShoppingBasketCalculatorTest" time="0.001"/>
+  <testcase name="canCalculateThePriceOfItemsOnOfferBuyThreeForThePriceOfTwo_1" classname="ShoppingBasketCalculatorTest" time="0.001"/>
+  <testcase name="canCalculateThePriceOfAnEmptyBasket" classname="ShoppingBasketCalculatorTest" time="0.0"/>
+  <testcase name="canCalculateThePriceOfItemsOnOfferBuyOneGetOneFree_0" classname="ShoppingBasketCalculatorTest" time="0.0"/>
+  <testcase name="canCalculateThePriceOfItemsOnOfferBuyOneGetOneFree_1" classname="ShoppingBasketCalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
